@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../Dremio"
+		},
+		{
+			"name": "dremio_poc",
+			"path": "../Dremio/dremio_poc"
+		}
+	],
+	"settings": {}
+}
